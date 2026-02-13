@@ -15,6 +15,8 @@ WP n8n is a powerful WordPress plugin that seamlessly integrates n8n workflow de
 
 **Current Version:** 1.0.1
 
+![](map.png)
+
 ## Features
 
 ### Core Functionality
